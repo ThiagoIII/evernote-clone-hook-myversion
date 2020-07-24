@@ -1,3 +1,10 @@
+  This is a modification from https://github.com/portexe/evernote-clone.git project that I saw on youtube and have changed to use React Hooks, I've tried to to as little as possible about the logic implemented and just try to add Hooks as pure as possible.
+  There's still a few bugs like not writting properly in the firestore, like sometimes missing the timestamp property e not writing in the same order (!?), and the notes don't get in the proper presented order as well!
+  
+  I will try and create my own version of this project and I will upload to GitHub when done.
+  
+  Thanks for seeing this, fell free to pull this projectand I hope I can help you guys, any doubt fell free to send me a message!
+  
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
